@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vidrieraS/static/css/main.0fa7ec49.chunk.css",
+    "main.js": "/vidrieraS/static/js/main.2c7f3d23.chunk.js",
+    "main.js.map": "/vidrieraS/static/js/main.2c7f3d23.chunk.js.map",
+    "runtime~main.js": "/vidrieraS/static/js/runtime~main.5cf78081.js",
+    "runtime~main.js.map": "/vidrieraS/static/js/runtime~main.5cf78081.js.map",
+    "static/css/2.7475c4dc.chunk.css": "/vidrieraS/static/css/2.7475c4dc.chunk.css",
+    "static/js/2.c2229b54.chunk.js": "/vidrieraS/static/js/2.c2229b54.chunk.js",
+    "static/js/2.c2229b54.chunk.js.map": "/vidrieraS/static/js/2.c2229b54.chunk.js.map",
+    "index.html": "/vidrieraS/index.html",
+    "precache-manifest.c2bf759316c06299c79fb3cc34b0d6c7.js": "/vidrieraS/precache-manifest.c2bf759316c06299c79fb3cc34b0d6c7.js",
+    "service-worker.js": "/vidrieraS/service-worker.js",
+    "static/css/2.7475c4dc.chunk.css.map": "/vidrieraS/static/css/2.7475c4dc.chunk.css.map",
+    "static/css/main.0fa7ec49.chunk.css.map": "/vidrieraS/static/css/main.0fa7ec49.chunk.css.map",
+    "static/media/construction.svg": "/vidrieraS/static/media/construction.664a1347.svg",
+    "static/media/logoJusticia.png": "/vidrieraS/static/media/logoJusticia.72c6f4a2.png"
+  }
+}
