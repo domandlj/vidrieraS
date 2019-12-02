@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "834c86112c4796e5c465f52fdf06d001",
+    "revision": "369b77e523b13a6cb2e05ea6c37aa934",
     "url": "/vidrieraS/index.html"
   },
   {
-    "revision": "a39aa667cf0cccb63f2c",
+    "revision": "97a076293fee8f4918e2",
     "url": "/vidrieraS/static/css/2.7475c4dc.chunk.css"
   },
   {
-    "revision": "43702525eb4a1ef63926",
+    "revision": "1f8b054b8869af88e736",
     "url": "/vidrieraS/static/css/main.0fa7ec49.chunk.css"
   },
   {
-    "revision": "a39aa667cf0cccb63f2c",
-    "url": "/vidrieraS/static/js/2.4cd5354e.chunk.js"
+    "revision": "97a076293fee8f4918e2",
+    "url": "/vidrieraS/static/js/2.136a9709.chunk.js"
   },
   {
-    "revision": "43702525eb4a1ef63926",
-    "url": "/vidrieraS/static/js/main.45a82604.chunk.js"
+    "revision": "1f8b054b8869af88e736",
+    "url": "/vidrieraS/static/js/main.65fa91b1.chunk.js"
   },
   {
     "revision": "6d9840488867d85ee683",
