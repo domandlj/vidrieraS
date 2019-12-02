@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbb5ab784727d3de8a1a8c5f7d04a3ac",
+    "revision": "5583521ae785590d98e368f367de562b",
     "url": "/vidrieraS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vidrieraS/static/css/2.7475c4dc.chunk.css"
   },
   {
-    "revision": "c017202668dc352655f5",
+    "revision": "05a16d354c7a409baaa1",
     "url": "/vidrieraS/static/css/main.0fa7ec49.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vidrieraS/static/js/2.136a9709.chunk.js"
   },
   {
-    "revision": "c017202668dc352655f5",
-    "url": "/vidrieraS/static/js/main.49aefb83.chunk.js"
+    "revision": "05a16d354c7a409baaa1",
+    "url": "/vidrieraS/static/js/main.3f768322.chunk.js"
   },
   {
     "revision": "6d9840488867d85ee683",
